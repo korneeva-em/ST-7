@@ -1,4 +1,4 @@
-package com.example;
+package com.mycompany.app;
 
 import org.json.simple.*;
 import org.json.simple.parser.JSONParser;
